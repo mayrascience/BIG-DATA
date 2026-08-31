@@ -1,2 +1,2 @@
 # BIG-DATA
-pipeline
+Pipeline de ingestão e transformação de dados em PySpark.
